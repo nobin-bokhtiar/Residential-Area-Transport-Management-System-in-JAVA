@@ -1,0 +1,2 @@
+Raida => PostGola=35TK,Jatrabari=35TK,Kamalapur=20TK;Malibagh=20TK,Rampura Bridge=10TK,Badda=10TK,Coca Cola=5TK,Kuril=5TK,Airport=10TK,Rajlakshmi=15TK,House Building=15;
+Desh-Bangla=> PostGola=35TK,Jatrabari=35TK,Kamalapur=20TK;Malibagh=20TK,Rampura Bridge=10TK,Badda=10TK,Coca Cola=5TK,Kuril=5TK,Airport=10TK,Rajlakshmi=15TK,House Building=15;
